@@ -1,2 +1,2 @@
-# TestesAvecJUnit
-JUnit avec java e intelli IDEA
+# TestAvecJUnit
+JUnit avec java ee intelli IDEA
